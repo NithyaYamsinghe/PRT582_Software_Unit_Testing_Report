@@ -39,11 +39,11 @@ The Number Guessing Game project utilizes the following technologies:
 
 Here's how the Number Guessing Game looks in action:
 
-![Game Screenshot 1](\Images\application1.png)
-_Description of the screenshot._
+![Game Screenshot 1](https://github.com/NithyaYamsinghe/PRT582_Software_Unit_Testing_Report/blob/master/Images/application1.png)
+_application image 01._
 
-![Game Screenshot 2](\Images\application2.png)
-_Description of the screenshot._
+![Game Screenshot 2](https://github.com/NithyaYamsinghe/PRT582_Software_Unit_Testing_Report/blob/master/Images/application2.png)
+_application image 02._
 
 ## Getting Started
 
