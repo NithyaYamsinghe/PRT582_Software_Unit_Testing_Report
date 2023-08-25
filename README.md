@@ -51,14 +51,16 @@ To get started with the Number Guessing Game, follow these steps:
 
 1. Clone this repository to your local machine.
 
-````sh
+```sh
    git clone https://github.com/NithyaYamsinghe/PRT582_Software_Unit_Testing_Report
-   ``
+```
+
 2. Navigate to the project directory.
 3. Compile and run the program using Python.
-  ```python
-   python main.py
-````
+
+```
+ python main.py
+```
 
 4. Follow the on-screen instructions to play the game.
 
